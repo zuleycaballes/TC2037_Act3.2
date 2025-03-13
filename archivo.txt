@@ -1,0 +1,4 @@
+x=10
+y=.25E3-(-5.0)
+total=(x+y)*3
+resultado=(total-5)/2 // División final con ajuste
